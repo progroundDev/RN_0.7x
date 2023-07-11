@@ -1,0 +1,43 @@
+{
+  "name": "rtn-sample",
+  "version": "0.0.1",
+  "description": "Sample of Turbo Native Modules",
+  "react-native": "js/index",
+  "source": "js/index",
+  "files": [
+    "js",
+    "android",
+    "ios",
+    "rtn-sample.podspec",
+    "!android/build",
+    "!ios/build",
+    "!**/__tests__",
+    "!**/__fixtures__",
+    "!**/__mocks__"
+  ],
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "repository": "https://github.com/rayProground/rtn-sample",
+  "author": "Ray ray@proground.co.kr (https://github.com/rayProground)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayProground/rtn-sample/issues"
+  },
+  "homepage": "https://github.com/rayProground/rtn-sample#readme",
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "codegenConfig": {
+    "name": "RTNSampleSpec",
+    "type": "modules",
+    "jsSrcsDir": "js",
+    "android": {
+      "javaPackageName": "com.rtnsample"
+    }
+  }
+}

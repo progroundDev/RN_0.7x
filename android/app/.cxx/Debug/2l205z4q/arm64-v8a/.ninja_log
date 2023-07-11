@@ -1,0 +1,5 @@
+# ninja log v5
+1	12	0	/Users/ray/Documents/workspace/RN_0.7x/android/app/.cxx/Debug/2l205z4q/arm64-v8a/CMakeFiles/cmake.verify_globs	330e2c22cab030cc
+1	1586	1689060100629980853	CMakeFiles/appmodules.dir/Users/ray/Documents/workspace/RN_0.7x/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	ae46d66e2f3b38fd
+2	2127	1689060101187868351	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cfb807653cfd0652
+2128	2246	1689060101307554295	/Users/ray/Documents/workspace/RN_0.7x/android/app/build/intermediates/cxx/Debug/2l205z4q/obj/arm64-v8a/libappmodules.so	7a96e5bc1549ea26

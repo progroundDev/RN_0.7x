@@ -1,0 +1,1 @@
+/Users/ray/Documents/workspace/RN_0.7x/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

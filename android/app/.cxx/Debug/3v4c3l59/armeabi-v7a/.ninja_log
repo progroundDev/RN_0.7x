@@ -1,0 +1,9 @@
+# ninja log v5
+0	8	0	/Users/ray/Documents/workspace/TurboModule/android/app/.cxx/Debug/3v4c3l59/armeabi-v7a/CMakeFiles/cmake.verify_globs	f01a3d7784f5b691
+4	719	1689013518987954677	CMakeFiles/appmodules.dir/Users/ray/Documents/workspace/TurboModule/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	b88b2b8792683055
+4	959	1689013519225350514	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d34871f38fc9a3c6
+959	1046	1689013519312026371	/Users/ray/Documents/workspace/TurboModule/android/app/build/intermediates/cxx/Debug/3v4c3l59/obj/armeabi-v7a/libappmodules.so	e8b5f88c9baf81e9
+1	7	0	/Users/ray/Documents/workspace/TurboModule/android/app/.cxx/Debug/3v4c3l59/armeabi-v7a/CMakeFiles/cmake.verify_globs	f01a3d7784f5b691
+10	832	1689015850064280630	CMakeFiles/appmodules.dir/Users/ray/Documents/workspace/TurboModule/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	b88b2b8792683055
+10	1135	1689015850362135559	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d34871f38fc9a3c6
+1135	1259	1689015850449634472	/Users/ray/Documents/workspace/TurboModule/android/app/build/intermediates/cxx/Debug/3v4c3l59/obj/armeabi-v7a/libappmodules.so	e8b5f88c9baf81e9

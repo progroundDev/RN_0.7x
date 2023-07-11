@@ -1,0 +1,93 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+prebuild.log
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+*.hprof
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# env & config
+.env
+.env.*
+config.json
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+*/fastlane/*.json
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+*/fastlane/metadata
+
+# Bundle artifact
+*.jsbundle
+android.main.bundle
+android.main.bundle.map
+ios.main.bundle.map
+
+# Ruby / CocoaPods
+/ios/Pods/
+/vendor/bundle/
+
+# vscode
+settings.json
+
+# react-native-config codegen
+/ios/tmp.xcconfig
+
+# sentry
+tKaE8jZHM9wDbei.zip
+android/app/src/main/assets/modules.json
+ios/SuperWalk.app.dSYM.zip
+
+android/sentry.properties
+ios/sentry.properties
+
+# fastlane
+android/Gemfile.lock
+ios/Gemfile.lock
+
+/i18n/peak-rn-eec6009a7e22.json
+/i18n/key.js
